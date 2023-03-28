@@ -1,0 +1,15 @@
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.exe.config
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.exe
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.pdb
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.csproj.AssemblyReference.cache
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.csproj.CoreCompileInputs.cache
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.exe
+C:\Users\szlas\Desktop\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.pdb
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.exe.config
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.exe
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\bin\Debug\telekomunumProjektum.pdb
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.csproj.AssemblyReference.cache
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.csproj.SuggestedBindingRedirects.cache
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.csproj.CoreCompileInputs.cache
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.exe
+C:\Users\szlas\OneDrive\Pulpit\telekomuna\telekomunumProjektum\telekomunumProjektum\obj\Debug\telekomunumProjektum.pdb
