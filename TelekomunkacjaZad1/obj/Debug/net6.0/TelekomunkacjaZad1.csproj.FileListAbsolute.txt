@@ -1,0 +1,15 @@
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\bin\Debug\net6.0\TelekomunkacjaZad1.exe
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\bin\Debug\net6.0\TelekomunkacjaZad1.deps.json
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\bin\Debug\net6.0\TelekomunkacjaZad1.runtimeconfig.json
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\bin\Debug\net6.0\TelekomunkacjaZad1.dll
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\bin\Debug\net6.0\TelekomunkacjaZad1.pdb
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.csproj.AssemblyReference.cache
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.AssemblyInfoInputs.cache
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.AssemblyInfo.cs
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.csproj.CoreCompileInputs.cache
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.dll
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\refint\TelekomunkacjaZad1.dll
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.pdb
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\TelekomunkacjaZad1.genruntimeconfig.cache
+C:\Users\szlas\OneDrive\Pulpit\TelekomunikacjaZad1\TelekomunkacjaZad1\TelekomunkacjaZad1\obj\Debug\net6.0\ref\TelekomunkacjaZad1.dll
